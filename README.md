@@ -1,5 +1,8 @@
-change any type of file name of any folder
+Rename the files in a folder
 
 
 How  to run
- !python rename.py
+
+
+
+!python rename.py
