@@ -1,2 +1,5 @@
-# Auto-Renaming-File-name-in-pyhton
-Rename All file name of a folder
+change any type of file name of any folder
+
+
+How  to run
+ !python rename.py
